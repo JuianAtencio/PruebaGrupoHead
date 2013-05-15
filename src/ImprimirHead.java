@@ -2,7 +2,7 @@ public class ImprimirHead {
 	public boolean devuelve_mensajeHead(boolean dato) {
 		if (dato != true) {
 			System.out
-					.println("Aja 2 MNS programa de prueba ImprimeDos para repo en Git  falso");
+					.println("Aja 2 MNS PAra el HEAD AAA programa de prueba ImprimeDos para repo en Git  falso");
 			dato = false;
 		} else {
 			System.out
